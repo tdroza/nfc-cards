@@ -1,0 +1,66 @@
+@font-face {
+    font-family: monthoers;
+    src: url('../fonts/Monthoers 2 Clean.otf');
+}
+
+.story {
+    --highlight-color: #0000ff;
+}
+.poem {
+    --highlight-color: #005000;
+}
+.card {
+    width: 200px;
+    border-radius: 10px;
+    height: 300px;
+    margin-top: 10px;
+    text-align: center;
+    position: relative;
+    border: 10px solid var(--highlight-color);
+    float: left;
+}
+
+.back {
+    overflow: auto;
+    float: none;
+    top: 10px
+}
+
+.back::after {
+    clear: both;
+    content: "";
+    float: none;
+    display: block;
+}
+
+.card img {
+    width: 200px;
+    height: 125px;
+    object-fit: cover;
+}
+.title {
+    font-family: monthoers;
+    font-size: 22pt;
+    height: 170px;
+    line-height: 120px;
+    width: 100%;
+}
+
+.title span {
+    vertical-align: middle;
+    display:inline-block;
+    line-height: 130%;
+}
+
+.author {
+    font-family: monthoers;
+    font-size:14pt;
+    text-transform: lowercase;
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    height: 30px;
+    line-height:30px;
+    background: var(--highlight-color);
+    color: #ffffff;
+}

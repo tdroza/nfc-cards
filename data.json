@@ -1,0 +1,44 @@
+[
+    {
+        "type": "story",
+        "title": "Monkey Puzzle",
+        "author": "Julia Donaldson",
+        "image": "monkey_puzzle.png"
+    },
+    {
+        "type": "poem",
+        "title": "The Walrus and the Carpenter",
+        "author": "Lewis Carroll",
+        "image": "walrus_and_the_carpenter.png"
+    },
+    {
+        "type": "story",
+        "title": "The Snail and the Whale",
+        "author": "Julia Donaldson",
+        "image": "snail_and_the_whale.png"
+    },
+    {
+        "type": "story",
+        "title": "Tiddler",
+        "author": "Julia Donaldson",
+        "image": "tiddler.png"
+    },
+    {
+        "type": "story",
+        "title": "Zog and the Flying Doctors",
+        "author": "Julia Donaldson",
+        "image": "zog.png"
+    },
+    {
+        "type": "poem",
+        "title": "The Lady of Shallot",
+        "author": "Alfred, Lord Tennyson",
+        "image": "lady_of_shallot.png"
+    },
+    {
+        "type": "story",
+        "title": "Where the Wild Things Are",
+        "author": "Maurice Sendak",
+        "image": "where_the_wild_things_are.png"
+    }
+]

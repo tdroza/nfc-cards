@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.0/angular.min.js"></script>
+    <script src="./cards.js"></script>
+    <link rel="stylesheet" href="./css/styles.css">
+  </head>
+  <body>
+    <div ng-app="cardsApp" ng-controller="cardsController">
+      <div ng-repeat="card in cardsData">
+        <div class="card {{card.type}}">
+            <img src="./img/{{card.image}}"  />
+            <div class="title"><span>{{card.title}}</span></div>
+            <div class="author">{{card.author}}</div>
+        </div>
+        <div class="card back {{card.type}}"></div>
+    </div>  
+    </div>
+  </body>
+</html>
