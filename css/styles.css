@@ -1,6 +1,6 @@
 body {
     --card-height: 300px;
-    --card-width: 200px;
+    --card-width: 175px;
 }
 
 @font-face {
@@ -27,7 +27,7 @@ body {
     margin-top: 10px;
     text-align: center;
     position: relative;
-    border: 10px solid var(--highlight-color);
+    border: 8px solid var(--highlight-color);
     float: left;
 }
 .card img {
@@ -64,15 +64,13 @@ body {
     border-radius: 50%;
     vertical-align: middle;
     margin:auto;
-
 }
 .title {
     font-family: monthoers;
-    font-size: 22pt;
-    height: 170px;
-    line-height: 120px;
+    font-size: 18pt;
+    height: calc(var(--card-height) / 2 - 50px);
+    line-height: calc(var(--card-height) / 2 - 50px);
     width: 100%;
-
 }
 
 .title span {
