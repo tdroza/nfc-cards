@@ -1,3 +1,8 @@
+body {
+    --card-height: 300px;
+    --card-width: 200px;
+}
+
 @font-face {
     font-family: monthoers;
     src: url('../fonts/Monthoers 2 Clean.otf');
@@ -9,15 +14,26 @@
 .poem {
     --highlight-color: #005000;
 }
+.music {
+    --highlight-color: #d80303;
+}
+.podcast {
+    --highlight-color: #f014cb;
+}
 .card {
-    width: 200px;
+    width: var(--card-width);
     border-radius: 10px;
-    height: 300px;
+    height: var(--card-height);
     margin-top: 10px;
     text-align: center;
     position: relative;
     border: 10px solid var(--highlight-color);
     float: left;
+}
+.card img {
+    width: var(--card-width);
+    height: 125px;
+    object-fit: cover;
 }
 
 .back {
@@ -33,10 +49,22 @@
     display: block;
 }
 
-.card img {
-    width: 200px;
-    height: 125px;
-    object-fit: cover;
+.back .frame {
+    height: var(--card-height);;
+    line-height: var(--card-height);;
+    text-align: center;
+}
+
+.back .frame img {
+    width: calc(0.5 * var(--card-width));
+    padding: 10px;
+    max-height: 100px;
+    object-fit: contain;    
+    background-color: var(--highlight-color);
+    border-radius: 50%;
+    vertical-align: middle;
+    margin:auto;
+
 }
 .title {
     font-family: monthoers;
@@ -44,12 +72,14 @@
     height: 170px;
     line-height: 120px;
     width: 100%;
+
 }
 
 .title span {
     vertical-align: middle;
     display:inline-block;
     line-height: 130%;
+    padding: 0 5px 0 5px;
 }
 
 .author {
