@@ -1,6 +1,18 @@
 [
     {
         "type": "story",
+        "title": "A Squash and a Squeeze",
+        "author": "Julia Donaldson",
+        "image": "squash_and_a_squeeze.png"
+    },
+    {
+        "type": "story",
+        "title": "Stick Man",
+        "author": "Julia Donaldson",
+        "image": "stick_man.png"
+    },
+    {
+        "type": "story",
         "title": "Peace at Last",
         "author": "Jill Murphy",
         "image": "peace_at_last.png"
