@@ -1,7 +1,7 @@
 # NFC Card Generator
 This project generates credit card sized cards that can be printed and laminated. My use case is to embed an nfc sticker and each card, when scanned, will trigger the associated audio file to play on a configured speaker (using [Tag Reader for Home Assistant](https://github.com/adonno/tagreader)  by @adonno).
 
-Cards are rendered in a webpage using [AngularJS](https://angularjs.org/). The webpage is data driven from a JSON file so new cards can be added very easily. 
+Cards are rendered in a webpage using [AngularJS](https://angularjs.org/). The webpage is data driven from a JSON file so new cards can be added very easily. Note that when printed on A4 there will be 3 cards per page and each printed card is approx 8mm smaller than standard credit card dimensions (in both directions) to allow them to be laminated.
 
 # Installation
 1. Clone the repo
