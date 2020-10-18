@@ -28,7 +28,7 @@ Additional styles can be added by duplicating this element in `css/styles.css`, 
 ```
 
 ## Data
-Edit `data.json` to create your own cards as a list of objects in the following format:
+1. Edit `data.json` to create your own cards as a list of objects in the following format:
 ```
 {
     "type": "poem",
@@ -37,6 +37,7 @@ Edit `data.json` to create your own cards as a list of objects in the following 
     "image": "walrus_and_the_carpenter.png"
 }
 ```
+2. Add your image to the `nfc-cards/img/` folder.
 
 # Styles
 Each item in `data.json` can specify a `style` attribute which is used to set the highlight colour for the border and background of the "author" text and NFC logo on the card back.
