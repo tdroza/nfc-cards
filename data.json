@@ -1,6 +1,42 @@
 [
     {
         "type": "story",
+        "title": "The Very Hungry Bear",
+        "author": "Nick Bland",
+        "image": "the_very_hungry_bear.png"
+    },
+    {
+        "type": "story",
+        "title": "The Cave",
+        "author": "Rob Hodgson",
+        "image": "the_cave.jpg"
+    },
+    {
+        "type": "story",
+        "title": "Sugarlump and the Unicorn",
+        "author": "Julia Donaldson",
+        "image": "sugarlump_and_the_unicorn.jpg"
+    },
+    {
+        "type": "story",
+        "title": "Snow Bears",
+        "author": "Martin Waddell",
+        "image": "snow_bears.jpg"
+    },
+    {
+        "type": "story",
+        "title": "Paper Dolls",
+        "author": "Julia Donaldson",
+        "image": "paper_dolls.jpg"
+    },
+    {
+        "type": "story",
+        "title": "Aussie Hokey Pokey",
+        "author": "Ed Allen",
+        "image": "hokey_pokey.png"
+    },
+    {
+        "type": "story",
         "title": "A Squash and a Squeeze",
         "author": "Julia Donaldson",
         "image": "squash_and_a_squeeze.png"
