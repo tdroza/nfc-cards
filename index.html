@@ -7,7 +7,7 @@
   </head>
   <body>
     <div ng-app="cardsApp" ng-controller="cardsController">
-      <div ng-repeat="card in cardsData">
+      <div ng-repeat="card in cardsData|limitTo:show">
         <div class="card {{card.type}}">
             <img src="./img/{{card.image}}"  />
             <div class="title"><span>{{card.title}}</span></div>
