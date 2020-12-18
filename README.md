@@ -9,7 +9,7 @@ Cards are rendered in a webpage using [AngularJS](https://angularjs.org/). The w
 3. Open http://localhost:8080/index.html
 
 ## Optional
-4. To limit the number of cards displayed, specify the `show` parameter on the URL querystring, e.g. http://localhost:8080/index.html!#show=3 (you may need to refresh the browser).
+4. To limit the number of cards displayed, specify the `show` parameter on the URL querystring, e.g. http://localhost:8080/index.html!#?show=3 (you may need to refresh the browser).
 
 # Configuration
 ## Fonts

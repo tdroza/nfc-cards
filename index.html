@@ -10,11 +10,12 @@
       <div ng-repeat="card in cardsData|limitTo:show">
         <div class="card {{card.type}}">
             <img src="./img/{{card.image}}"  />
-            <div class="title"><span>{{card.title}}</span></div>
-            <div class="author">{{card.author}}</div>
+            <h1 class="title"><span>{{card.title}}</span></h1>
+            <h2 class="author">{{card.author}}</h2>
         </div>
         <div class="card back {{card.type}}">
           <div class="frame"><img src="./img/nfc2.png" /></div>
+          <h2 class="narrator" ng-if="card.narrator">Read by {{card.narrator}}</h2>
         </div>
     </div>  
     </div>

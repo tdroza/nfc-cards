@@ -1,9 +1,24 @@
 [
     {
         "type": "story",
+        "title": "Bringing Down The Moon",
+        "author": "Jonathan Emmet",
+        "image": "bringing_down_the_moon.jpg",
+        "narrator": "Tom"
+    },
+    {
+        "type": "story",
+        "title": "Alien Tea on Planet Zum-Zee",
+        "author": "Tony Mitton",
+        "image": "alien_tea.jpg",
+        "narrator": "Seb"
+    },
+    {
+        "type": "story",
         "title": "The Very Hungry Bear",
         "author": "Nick Bland",
-        "image": "the_very_hungry_bear.png"
+        "image": "the_very_hungry_bear.png",
+        "narrator": "Anna"
     },
     {
         "type": "story",

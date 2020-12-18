@@ -65,22 +65,22 @@ body {
     vertical-align: middle;
     margin:auto;
 }
-.title {
+h1.title {
     font-family: monthoers;
     font-size: 18pt;
-    height: calc(var(--card-height) / 2 - 50px);
-    line-height: calc(var(--card-height) / 2 - 50px);
+    height: calc((var(--card-height) / 2) - 75px);
+    line-height: calc((var(--card-height) / 2) - 75px);
     width: 100%;
 }
 
-.title span {
+h1.title span {
     vertical-align: middle;
     display:inline-block;
     line-height: 130%;
     padding: 0 5px 0 5px;
 }
 
-.author {
+h2 {
     font-family: monthoers;
     font-size:14pt;
     text-transform: lowercase;
