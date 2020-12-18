@@ -31,13 +31,14 @@ Additional styles can be added by duplicating this element in `css/styles.css`, 
 ```
 
 ## Data
-1. Edit `data.json` to create your own cards as a list of objects in the following format:
+1. Edit `data.json` to create your own cards as a list of objects in the following format (The `narrator` field is optional. If provided it will be displayed on the reverse of the card):
 ```
 {
     "type": "poem",
     "title": "The Walrus and the Carpenter",
     "author": "Lewis Carroll",
-    "image": "walrus_and_the_carpenter.png"
+    "image": "walrus_and_the_carpenter.png",
+    "narrator": "Dad"
 }
 ```
 2. Add your image to the `nfc-cards/img/` folder.
