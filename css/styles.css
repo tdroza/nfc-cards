@@ -20,6 +20,9 @@ body {
 .podcast {
     --highlight-color: #f014cb;
 }
+.automation {
+    --highlight-color: #00e961;
+}
 .card {
     width: var(--card-width);
     border-radius: 10px;

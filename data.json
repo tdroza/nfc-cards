@@ -1,10 +1,10 @@
 [
     {
         "type": "story",
-        "title": "Bringing Down The Moon",
-        "author": "Jonathan Emmet",
-        "image": "bringing_down_the_moon.jpg",
-        "narrator": "Tom"
+        "title": "The Gruffalo",
+        "author": "Julia Donaldson",
+        "image": "gruffalo.jpg",
+        "narrator": "Daddy"
     },
     {
         "type": "story",
@@ -12,6 +12,33 @@
         "author": "Tony Mitton",
         "image": "alien_tea.jpg",
         "narrator": "Seb"
+    },
+    {
+        "type": "story",
+        "title": "Dinky Donkey",
+        "author": "Craig Smith",
+        "image": "dinkydonkey.jpg",
+        "narrator": "Daddy"
+    },
+    {
+        "type": "story",
+        "title": "Room on the Broom",
+        "author": "Julia Donaldson",
+        "image": "room_on_the_broom.jpg",
+        "narrator": "Daddy"
+    },
+    {
+        "type": "automation",
+        "title": "Reuben's Light",
+        "author": "On/Off",
+        "image": "reuben.jpg"
+    },    
+    {
+        "type": "story",
+        "title": "Bringing Down The Moon",
+        "author": "Jonathan Emmet",
+        "image": "bringing_down_the_moon.jpg",
+        "narrator": "Tom"
     },
     {
         "type": "story",
