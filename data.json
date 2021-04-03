@@ -1,5 +1,41 @@
 [
     {
+        "type": "podcast",
+        "title": "But Why",
+        "author": "Jane Lindholm",
+        "image": "but_why.jpg"
+    },  
+    {
+        "type": "podcast",
+        "title": "Goodnight Stories",
+        "author": "Rebel Girls",
+        "image": "goodnight_stories.jpg"
+    },  
+    {
+        "type": "podcast",
+        "title": "Story Pirates",
+        "author": "Various",
+        "image": "story_pirates.jpg"
+    },  
+    {
+        "type": "podcast",
+        "title": "Sound Explorers",
+        "author": "Maddie Moate",
+        "image": "sound_explorers.jpg"
+    },    
+    {
+        "type": "podcast",
+        "title": "Peace Out",
+        "author": "Chanel Tsang",
+        "image": "peace_out.jpg"
+    },
+    {
+        "type": "podcast",
+        "title": "Marvellous Musical",
+        "author": "David Walliams",
+        "image": "marvellous_musical.jpg"
+    },    
+    {
         "type": "story",
         "title": "The Gruffalo",
         "author": "Julia Donaldson",
