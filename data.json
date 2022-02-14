@@ -1,196 +1,208 @@
 [
-    {
-        "type": "story",
-        "title": "Monty and Milli",
-        "author": "Tracey Corderoy",
-        "image": "monty_and_milli.jpg",
-        "narrator": "Seb"
-    },
-    {
-        "type": "story",
-        "title": "Room on the Broom",
-        "author": "Julia Donaldson",
-        "image": "room_on_the_broom.jpg",
-        "narrator": "Seb"
-    },
-    {
-        "type": "podcast",
-        "title": "But Why",
-        "author": "Jane Lindholm",
-        "image": "but_why.jpg"
-    },
-    {
-        "type": "podcast",
-        "title": "Goodnight Stories",
-        "author": "Rebel Girls",
-        "image": "goodnight_stories.jpg"
-    },
-    {
-        "type": "podcast",
-        "title": "Story Pirates",
-        "author": "Various",
-        "image": "story_pirates.jpg"
-    },
-    {
-        "type": "podcast",
-        "title": "Sound Explorers",
-        "author": "Maddie Moate",
-        "image": "sound_explorers.jpg"
-    },
-    {
-        "type": "podcast",
-        "title": "Peace Out",
-        "author": "Chanel Tsang",
-        "image": "peace_out.jpg"
-    },
-    {
-        "type": "podcast",
-        "title": "Marvellous Musical",
-        "author": "David Walliams",
-        "image": "marvellous_musical.jpg"
-    },
-    {
-        "type": "story",
-        "title": "The Gruffalo",
-        "author": "Julia Donaldson",
-        "image": "gruffalo.jpg",
-        "narrator": "Daddy"
-    },
-    {
-        "type": "story",
-        "title": "Alien Tea on Planet Zum-Zee",
-        "author": "Tony Mitton",
-        "image": "alien_tea.jpg",
-        "narrator": "Seb"
-    },
-    {
-        "type": "story",
-        "title": "Dinky Donkey",
-        "author": "Craig Smith",
-        "image": "dinkydonkey.jpg",
-        "narrator": "Daddy"
-    },
-    {
-        "type": "story",
-        "title": "Room on the Broom",
-        "author": "Julia Donaldson",
-        "image": "room_on_the_broom.jpg",
-        "narrator": "Daddy"
-    },
-    {
-        "type": "automation",
-        "title": "Reuben's Light",
-        "author": "On/Off",
-        "image": "reuben.jpg"
-    },
-    {
-        "type": "story",
-        "title": "Bringing Down The Moon",
-        "author": "Jonathan Emmet",
-        "image": "bringing_down_the_moon.jpg",
-        "narrator": "Tom"
-    },
-    {
-        "type": "story",
-        "title": "The Very Hungry Bear",
-        "author": "Nick Bland",
-        "image": "the_very_hungry_bear.png",
-        "narrator": "Anna"
-    },
-    {
-        "type": "story",
-        "title": "The Cave",
-        "author": "Rob Hodgson",
-        "image": "the_cave.jpg"
-    },
-    {
-        "type": "story",
-        "title": "Sugarlump and the Unicorn",
-        "author": "Julia Donaldson",
-        "image": "sugarlump_and_the_unicorn.jpg"
-    },
-    {
-        "type": "story",
-        "title": "Snow Bears",
-        "author": "Martin Waddell",
-        "image": "snow_bears.jpg"
-    },
-    {
-        "type": "story",
-        "title": "Paper Dolls",
-        "author": "Julia Donaldson",
-        "image": "paper_dolls.jpg"
-    },
-    {
-        "type": "story",
-        "title": "Aussie Hokey Pokey",
-        "author": "Ed Allen",
-        "image": "hokey_pokey.png"
-    },
-    {
-        "type": "story",
-        "title": "A Squash and a Squeeze",
-        "author": "Julia Donaldson",
-        "image": "squash_and_a_squeeze.png"
-    },
-    {
-        "type": "story",
-        "title": "Stick Man",
-        "author": "Julia Donaldson",
-        "image": "stick_man.png"
-    },
-    {
-        "type": "story",
-        "title": "Peace at Last",
-        "author": "Jill Murphy",
-        "image": "peace_at_last.png"
-    },
-    {
-        "type": "music",
-        "title": "Come What May",
-        "author": "Jarrod Dickenson",
-        "image": "jarrod.jpg"
-    },
-    {
-        "type": "story",
-        "title": "Monkey Puzzle",
-        "author": "Julia Donaldson",
-        "image": "monkey_puzzle.png"
-    },
-    {
-        "type": "poem",
-        "title": "The Walrus and the Carpenter",
-        "author": "Lewis Carroll",
-        "image": "walrus_and_the_carpenter.png"
-    },
-    {
-        "type": "story",
-        "title": "The Snail and the Whale",
-        "author": "Julia Donaldson",
-        "image": "snail_and_the_whale.png"
-    },
-    {
-        "type": "story",
-        "title": "Tiddler",
-        "author": "Julia Donaldson",
-        "image": "tiddler.png"
-    },
-    {
-        "type": "story",
-        "title": "Zog and the Flying Doctors",
-        "author": "Julia Donaldson",
-        "image": "zog.png"
-    },
-    {
-        "type": "poem",
-        "title": "The Lady of Shallot",
-        "author": "Alfred, Lord Tennyson",
-        "image": "lady_of_shallot.png"
-    },
-    {
-        "type": "story",
-        "title": "Where the Wild Things Are",
-        "author": "Maurice Sendak",
-        "image": "where_the_wild_things_are.png"
-    }
+  {
+    "type": "music",
+    "title": "My Favourite Music",
+    "author": "Seb D'Roza",
+    "image": "music2.png"
+  },
+  {
+    "type": "music",
+    "title": "My Favourite Music",
+    "author": "Reuben D'Roza",
+    "image": "music.png"
+  },
+  {
+    "type": "story",
+    "title": "Monty and Milli",
+    "author": "Tracey Corderoy",
+    "image": "monty_and_milli.jpg",
+    "narrator": "Seb"
+  },
+  {
+    "type": "story",
+    "title": "Room on the Broom",
+    "author": "Julia Donaldson",
+    "image": "room_on_the_broom.jpg",
+    "narrator": "Seb"
+  },
+  {
+    "type": "podcast",
+    "title": "But Why",
+    "author": "Jane Lindholm",
+    "image": "but_why.jpg"
+  },
+  {
+    "type": "podcast",
+    "title": "Goodnight Stories",
+    "author": "Rebel Girls",
+    "image": "goodnight_stories.jpg"
+  },
+  {
+    "type": "podcast",
+    "title": "Story Pirates",
+    "author": "Various",
+    "image": "story_pirates.jpg"
+  },
+  {
+    "type": "podcast",
+    "title": "Sound Explorers",
+    "author": "Maddie Moate",
+    "image": "sound_explorers.jpg"
+  },
+  {
+    "type": "podcast",
+    "title": "Peace Out",
+    "author": "Chanel Tsang",
+    "image": "peace_out.jpg"
+  },
+  {
+    "type": "podcast",
+    "title": "Marvellous Musical",
+    "author": "David Walliams",
+    "image": "marvellous_musical.jpg"
+  },
+  {
+    "type": "story",
+    "title": "The Gruffalo",
+    "author": "Julia Donaldson",
+    "image": "gruffalo.jpg",
+    "narrator": "Daddy"
+  },
+  {
+    "type": "story",
+    "title": "Alien Tea on Planet Zum-Zee",
+    "author": "Tony Mitton",
+    "image": "alien_tea.jpg",
+    "narrator": "Seb"
+  },
+  {
+    "type": "story",
+    "title": "Dinky Donkey",
+    "author": "Craig Smith",
+    "image": "dinkydonkey.jpg",
+    "narrator": "Daddy"
+  },
+  {
+    "type": "story",
+    "title": "Room on the Broom",
+    "author": "Julia Donaldson",
+    "image": "room_on_the_broom.jpg",
+    "narrator": "Daddy"
+  },
+  {
+    "type": "automation",
+    "title": "Reuben's Light",
+    "author": "On/Off",
+    "image": "reuben.jpg"
+  },
+  {
+    "type": "story",
+    "title": "Bringing Down The Moon",
+    "author": "Jonathan Emmet",
+    "image": "bringing_down_the_moon.jpg",
+    "narrator": "Tom"
+  },
+  {
+    "type": "story",
+    "title": "The Very Hungry Bear",
+    "author": "Nick Bland",
+    "image": "the_very_hungry_bear.png",
+    "narrator": "Anna"
+  },
+  {
+    "type": "story",
+    "title": "The Cave",
+    "author": "Rob Hodgson",
+    "image": "the_cave.jpg"
+  },
+  {
+    "type": "story",
+    "title": "Sugarlump and the Unicorn",
+    "author": "Julia Donaldson",
+    "image": "sugarlump_and_the_unicorn.jpg"
+  },
+  {
+    "type": "story",
+    "title": "Snow Bears",
+    "author": "Martin Waddell",
+    "image": "snow_bears.jpg"
+  },
+  {
+    "type": "story",
+    "title": "Paper Dolls",
+    "author": "Julia Donaldson",
+    "image": "paper_dolls.jpg"
+  },
+  {
+    "type": "story",
+    "title": "Aussie Hokey Pokey",
+    "author": "Ed Allen",
+    "image": "hokey_pokey.png"
+  },
+  {
+    "type": "story",
+    "title": "A Squash and a Squeeze",
+    "author": "Julia Donaldson",
+    "image": "squash_and_a_squeeze.png"
+  },
+  {
+    "type": "story",
+    "title": "Stick Man",
+    "author": "Julia Donaldson",
+    "image": "stick_man.png"
+  },
+  {
+    "type": "story",
+    "title": "Peace at Last",
+    "author": "Jill Murphy",
+    "image": "peace_at_last.png"
+  },
+  {
+    "type": "music",
+    "title": "Come What May",
+    "author": "Jarrod Dickenson",
+    "image": "jarrod.jpg"
+  },
+  {
+    "type": "story",
+    "title": "Monkey Puzzle",
+    "author": "Julia Donaldson",
+    "image": "monkey_puzzle.png"
+  },
+  {
+    "type": "poem",
+    "title": "The Walrus and the Carpenter",
+    "author": "Lewis Carroll",
+    "image": "walrus_and_the_carpenter.png"
+  },
+  {
+    "type": "story",
+    "title": "The Snail and the Whale",
+    "author": "Julia Donaldson",
+    "image": "snail_and_the_whale.png"
+  },
+  {
+    "type": "story",
+    "title": "Tiddler",
+    "author": "Julia Donaldson",
+    "image": "tiddler.png"
+  },
+  {
+    "type": "story",
+    "title": "Zog and the Flying Doctors",
+    "author": "Julia Donaldson",
+    "image": "zog.png"
+  },
+  {
+    "type": "poem",
+    "title": "The Lady of Shallot",
+    "author": "Alfred, Lord Tennyson",
+    "image": "lady_of_shallot.png"
+  },
+  {
+    "type": "story",
+    "title": "Where the Wild Things Are",
+    "author": "Maurice Sendak",
+    "image": "where_the_wild_things_are.png"
+  }
 ]
